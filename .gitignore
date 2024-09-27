@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test/coverage reports
+coverage/
+htmlcov/
+.tox/
+.nox/
+
+# Local configuration
+*.pem
+*.key
+*.pfx
+.env
+.gitconfig
+.DS_Store
+
+# Virtual environment
+.venv/
